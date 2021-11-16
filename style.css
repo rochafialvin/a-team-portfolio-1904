@@ -1,0 +1,15 @@
+.hero {
+  background-color: rgba(188, 107, 217, 0.1);
+}
+
+.button {
+  background-color: #f53838;
+}
+
+.button-hover {
+  background-color: #be2929;
+}
+
+.card-head {
+  background-color: #d2ebf7;
+}

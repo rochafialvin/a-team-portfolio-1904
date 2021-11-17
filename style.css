@@ -65,3 +65,39 @@ body {
   background-color: #f53855;
   color: white;
 }
+
+.page-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(188, 107, 217, 0.1);
+  padding-bottom: 56px;
+}
+
+.title-heading {
+  font-size: 44px;
+  width: 700px;
+  text-align: center;
+}
+
+.title-content {
+  width: 700px;
+  text-align: center;
+}
+
+.btn-primary {
+  margin-top: 36px;
+  background-color: #f53838;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  border: 0;
+  border-radius: 10px;
+  padding: 12px 48px;
+  transition: background-color 250ms ease-in-out;
+}
+
+.btn-primary:hover {
+  cursor: pointer;
+  background-color: #be2929;
+}

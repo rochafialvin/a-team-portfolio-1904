@@ -82,6 +82,10 @@ body {
   padding-bottom: 56px;
 }
 
+.page-title-blog {
+  padding-bottom: 200px;
+}
+
 .title-heading {
   font-size: 44px;
   width: 700px;
@@ -145,6 +149,10 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 56px;
+}
+
+.cards-container-overlap {
+  margin-top: -120px;
 }
 
 .card {
